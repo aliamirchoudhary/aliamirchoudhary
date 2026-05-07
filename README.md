@@ -3,17 +3,14 @@
 
 <div align="center">
 
-<!-- Animated Typing -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=750&lines=🧠+BS+Data+Science+%40+FAST-NUCES+Lahore;🤖+Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;📊+Transforming+Raw+Data+into+Real+Intelligence;🚀+Founder+%26+Lead+Developer+%40+WebCraft;⚡+Building+Production-Ready+AI+Systems;🏏+Cricket+Analytics+%7C+👗+Fashion+AI+%7C+🕹️+Assembly+Games)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Glowing divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-<!-- Social Links -->
 <a href="https://ali-aamir-portfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-0077ff?style=for-the-badge&labelColor=0d1117&color=0077ff" />
 </a>
@@ -36,12 +33,11 @@
 
 <br/><br/>
 
-<!-- Live Stats Pills -->
-![Profile Views](https://komarev.com/ghpvc/?username=aliamirchoudhary&color=0077ff&style=flat-square&label=👁️+PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=aliamirchoudhary&color=0077ff&style=flat-square&label=PROFILE+VIEWS)
 &nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/aliamirchoudhary?style=flat-square&color=00d4ff&labelColor=0d1117&label=Followers)
 &nbsp;
-![GitHub stars](https://img.shields.io/github/stars/aliamirchoudhary?style=flat-square&color=ffd700&labelColor=0d1117&label=⭐+Stars)
+![GitHub stars](https://img.shields.io/github/stars/aliamirchoudhary?style=flat-square&color=ffd700&labelColor=0d1117&label=Stars)
 
 </div>
 
@@ -51,7 +47,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp;About Me
 
-<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360px"/>
+<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340px"/>
 
 ```python
 class MuhammadAliAamir:
@@ -91,17 +87,20 @@ class MuhammadAliAamir:
 
 <div align="center">
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=aliamirchoudhary&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=0077ff&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&ring_color=0077ff&hide_border=false"/>
-&nbsp;&nbsp;
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliamirchoudhary&layout=compact&langs_count=8&bg_color=0d1117&border_color=0077ff&title_color=00d4ff&text_color=c9d1d9&hide_border=false"/>
+<!-- Stats card - using anuraghazra's reliable instance -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aliamirchoudhary&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0d1117&border_color=0077ff&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&hide_border=false&cache_seconds=1800"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliamirchoudhary&layout=compact&langs_count=8&theme=tokyonight&bg_color=0d1117&border_color=0077ff&title_color=00d4ff&text_color=c9d1d9&hide_border=false&cache_seconds=1800"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=aliamirchoudhary&theme=dark&background=0d1117&border=0077ff&stroke=00d4ff&ring=0077ff&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e&hide_border=false" width="65%"/>
+<!-- Streak stats - demolab is more stable than herokuapp -->
+<img src="https://streak-stats.demolab.com/?user=aliamirchoudhary&theme=tokyonight-duo&background=0d1117&border=0077ff&stroke=0077ff&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e" width="60%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aliamirchoudhary&bg_color=0d1117&color=00d4ff&line=0077ff&point=00d4ff&area=true&area_color=001a3d&border_color=0077ff&hide_border=false&radius=8" width="98%"/>
+<!-- Activity graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aliamirchoudhary&bg_color=0d1117&color=00d4ff&line=0077ff&point=ffffff&area=true&area_color=001530&border_color=0077ff&radius=6" width="97%"/>
 
 </div>
 
@@ -124,30 +123,33 @@ class MuhammadAliAamir:
 <div align="center">
 
 ### 🧬 ML / DL Frameworks
-<img src="https://skillicons.dev/icons?i=python,tensorflow,keras,sklearn&theme=dark&perline=8"/>
+
+<!-- perline=6 ensures all 4 icons fit on one row with no gaps -->
+<img src="https://skillicons.dev/icons?i=python,tensorflow,keras,sklearn&theme=dark&perline=6"/>
 
 ### 📊 Data Science Ecosystem
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
+<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
 </div>
 
 ### 🎯 Skill Proficiency
 
-| Skill | Level | Bar |
-|-------|-------|-----|
-| 🤖 **Machine Learning** | `90%` | `████████████████████░░` |
-| 🧠 **Deep Learning / NNs** | `88%` | `████████████████████░░` |
-| 🔬 **Feature Engineering** | `90%` | `████████████████████░░` |
-| 📊 **Data Visualization** | `88%` | `████████████████████░░` |
-| 👁️ **Computer Vision** | `80%` | `██████████████████░░░░` |
-| 🚀 **Model Deployment** | `78%` | `█████████████████░░░░░` |
-| 📝 **Predictive Analytics** | `92%` | `█████████████████████░` |
-| 🗣️ **NLP** | `60%` | `██████████████░░░░░░░░` |
+| Skill | Level | Progress |
+|-------|:-----:|----------|
+| 🤖 **Machine Learning** | `90%` | ![90%](https://progress-bar.xyz/90/?scale=100&title=&width=200&color=0077ff&suffix=%) |
+| 🧠 **Deep Learning / NNs** | `88%` | ![88%](https://progress-bar.xyz/88/?scale=100&title=&width=200&color=0077ff&suffix=%) |
+| 🔬 **Feature Engineering** | `90%` | ![90%](https://progress-bar.xyz/90/?scale=100&title=&width=200&color=00d4ff&suffix=%) |
+| 📊 **Data Visualization** | `88%` | ![88%](https://progress-bar.xyz/88/?scale=100&title=&width=200&color=00d4ff&suffix=%) |
+| 👁️ **Computer Vision** | `80%` | ![80%](https://progress-bar.xyz/80/?scale=100&title=&width=200&color=7c3aed&suffix=%) |
+| 🚀 **Model Deployment** | `78%` | ![78%](https://progress-bar.xyz/78/?scale=100&title=&width=200&color=7c3aed&suffix=%) |
+| 📝 **Predictive Analytics** | `92%` | ![92%](https://progress-bar.xyz/92/?scale=100&title=&width=200&color=059669&suffix=%) |
+| 🗣️ **NLP** | `60%` | ![60%](https://progress-bar.xyz/60/?scale=100&title=&width=200&color=dc2626&suffix=%) |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -156,22 +158,23 @@ class MuhammadAliAamir:
 <div align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css&theme=dark&perline=8"/>
+<!-- all on one row, perline=10 prevents wrapping -->
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css&theme=dark&perline=10"/>
 &nbsp;
 <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/Assembly_x86-6E4C13?style=for-the-badge&logoColor=white"/>
 
 ### 🌐 Web & Backend
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,tailwind&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,tailwind&theme=dark&perline=10"/>
 
 ### 🗄️ Databases & Cloud
-<img src="https://skillicons.dev/icons?i=azure,aws,gcp,vercel&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp,vercel&theme=dark&perline=10"/>
 &nbsp;
 <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
-### 🔧 Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark&perline=8"/>
+### 🔧 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark&perline=10"/>
 &nbsp;
 <img src="https://img.shields.io/badge/NASM-333333?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/DOSBox-555555?style=for-the-badge&logoColor=white"/>
@@ -274,22 +277,42 @@ class MuhammadAliAamir:
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
-### 🕹️ Flappy Bird & Bubble Shooter — Pure 16-bit Assembly
-**Two fully playable arcade games. Zero abstractions. Maximum respect.**
+### 🎬 Relive
+**OOP-Based Social Media Platform**
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/aliamirchoudhary/Flappy-Bird---IAPX8088-Assembly-Game)
-![Assembly](https://img.shields.io/badge/-Assembly_iAPX8088-6E4C13?style=flat-square)
+> *Full-featured social platform built on solid OOP principles*
+
+```
+✦ Post, comment & nested reply system
+✦ Friend requests & social graph logic
+✦ Encapsulation, inheritance & polymorphism
+✦ Clean class hierarchy & modular design
+```
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![OOP](https://img.shields.io/badge/-OOP-7c3aed?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🕹️ Flappy Bird & Bubble Shooter
+**Pure 16-bit Assembly Arcade Games**
+
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/aliamirchoudhary/Flappy-Bird---IAPX8088-Assembly-Game)
+
+> *1000+ lines of raw x86 Assembly. Zero abstractions.*
+
+```
+✦ Fixed-point gravity — no floating-point unit
+✦ VGA direct memory write (Mode 13h, 320x200)
+✦ Interrupt-driven input + collision detection
+✦ Custom pseudo-RNG & real-time rendering
+```
+
+![Assembly](https://img.shields.io/badge/-Assembly_x86-6E4C13?style=flat-square)
 ![NASM](https://img.shields.io/badge/-NASM-333333?style=flat-square)
-![DOSBox](https://img.shields.io/badge/-DOSBox-555555?style=flat-square)
-
-```
-✦ Physics-based gravity via fixed-point arithmetic — no floating-point unit
-✦ Real-time VGA graphics: direct memory write (Mode 13h, 320x200)
-✦ Interrupt-driven keyboard input + custom collision detection + pseudo-RNG
-✦ 1000+ lines (Flappy Bird) & 800+ lines (Bubble Shooter) of raw x86 Assembly
-```
 
 </td>
 </tr>
@@ -352,17 +375,26 @@ class MuhammadAliAamir:
 
 <div align="center">
 
+<!--
+  Snake renders once your GitHub Actions workflow has run at least once.
+  Go to: your profile repo → Actions tab → "Generate Snake" → Run workflow
+  It will appear here within ~30 seconds after the first run.
+-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aliamirchoudhary/aliamirchoudhary/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aliamirchoudhary/aliamirchoudhary/output/github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/aliamirchoudhary/aliamirchoudhary/output/github-contribution-grid-snake-dark.svg">
+  <img alt="contribution-snake" src="https://raw.githubusercontent.com/aliamirchoudhary/aliamirchoudhary/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-<details>
-<summary>⚙️ <b>Enable the snake animation — click to expand setup guide</b></summary>
 <br/>
 
-Create `.github/workflows/snake.yml` in your profile repo:
+> ⚡ **To activate the snake:** Go to your profile repo → **Actions** tab → click **"Generate Snake"** → click **"Run workflow"** → wait ~30 seconds. It will appear automatically.
+
+<details>
+<summary>📄 <b>snake.yml workflow code (click to expand)</b></summary>
+<br/>
+
+Save this as `.github/workflows/snake.yml` in your profile repo:
 
 ```yaml
 name: Generate Snake
@@ -417,7 +449,7 @@ jobs:
 </a>
 <br/><br/>
 <a href="mailto:aliamirchoudhary@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-aliamirchoudhary@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Gmail-aliamirchoudhary%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
 </a>
 
 <br/><br/>
