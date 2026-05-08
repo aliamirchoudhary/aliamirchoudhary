@@ -87,19 +87,16 @@ class MuhammadAliAamir:
 
 <div align="center">
 
-<!-- Stats card - using anuraghazra's reliable instance -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aliamirchoudhary&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0d1117&border_color=0077ff&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&hide_border=false&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aliamirchoudhary&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&border_color=0077ff&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliamirchoudhary&layout=compact&langs_count=8&theme=tokyonight&bg_color=0d1117&border_color=0077ff&title_color=00d4ff&text_color=c9d1d9&hide_border=false&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aliamirchoudhary&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&border_color=0077ff&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117"/>
 
 <br/><br/>
 
-<!-- Streak stats - demolab is more stable than herokuapp -->
 <img src="https://streak-stats.demolab.com/?user=aliamirchoudhary&theme=tokyonight-duo&background=0d1117&border=0077ff&stroke=0077ff&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e" width="60%"/>
 
 <br/><br/>
 
-<!-- Activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliamirchoudhary&bg_color=0d1117&color=00d4ff&line=0077ff&point=ffffff&area=true&area_color=001530&border_color=0077ff&radius=6" width="97%"/>
 
 </div>
@@ -124,8 +121,11 @@ class MuhammadAliAamir:
 
 ### 🧬 ML / DL Frameworks
 
-<!-- perline=6 ensures all 4 icons fit on one row with no gaps -->
-<img src="https://skillicons.dev/icons?i=python,tensorflow,keras,sklearn&theme=dark&perline=6"/>
+<!-- Replaced skillicons for ML row — Keras icon has CDN issues on skillicons.dev -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
 ### 📊 Data Science Ecosystem
 
@@ -144,8 +144,8 @@ class MuhammadAliAamir:
 |-------|:-----:|----------|
 | 🤖 **Machine Learning** | `90%` | ![90%](https://progress-bar.xyz/90/?scale=100&title=&width=200&color=0077ff&suffix=%) |
 | 🧠 **Deep Learning / NNs** | `88%` | ![88%](https://progress-bar.xyz/88/?scale=100&title=&width=200&color=0077ff&suffix=%) |
-| 🔬 **Feature Engineering** | `90%` | ![90%](https://progress-bar.xyz/90/?scale=100&title=&width=200&color=00d4ff&suffix=%) |
-| 📊 **Data Visualization** | `88%` | ![88%](https://progress-bar.xyz/88/?scale=100&title=&width=200&color=00d4ff&suffix=%) |
+| 🔬 **Feature Engineering** | `90%` | ![90%](https://progress-bar.xyz/90/?scale=100&title=&width=200&color=00b4d8&suffix=%) |
+| 📊 **Data Visualization** | `88%` | ![88%](https://progress-bar.xyz/88/?scale=100&title=&width=200&color=00b4d8&suffix=%) |
 | 👁️ **Computer Vision** | `80%` | ![80%](https://progress-bar.xyz/80/?scale=100&title=&width=200&color=7c3aed&suffix=%) |
 | 🚀 **Model Deployment** | `78%` | ![78%](https://progress-bar.xyz/78/?scale=100&title=&width=200&color=7c3aed&suffix=%) |
 | 📝 **Predictive Analytics** | `92%` | ![92%](https://progress-bar.xyz/92/?scale=100&title=&width=200&color=059669&suffix=%) |
@@ -158,7 +158,6 @@ class MuhammadAliAamir:
 <div align="center">
 
 ### 💻 Languages
-<!-- all on one row, perline=10 prevents wrapping -->
 <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css&theme=dark&perline=10"/>
 &nbsp;
 <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
@@ -375,54 +374,11 @@ class MuhammadAliAamir:
 
 <div align="center">
 
-<!--
-  Snake renders once your GitHub Actions workflow has run at least once.
-  Go to: your profile repo → Actions tab → "Generate Snake" → Run workflow
-  It will appear here within ~30 seconds after the first run.
--->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aliamirchoudhary/aliamirchoudhary/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aliamirchoudhary/aliamirchoudhary/output/github-contribution-grid-snake.svg">
   <img alt="contribution-snake" src="https://raw.githubusercontent.com/aliamirchoudhary/aliamirchoudhary/output/github-contribution-grid-snake-dark.svg">
 </picture>
-
-<br/>
-
-> ⚡ **To activate the snake:** Go to your profile repo → **Actions** tab → click **"Generate Snake"** → click **"Run workflow"** → wait ~30 seconds. It will appear automatically.
-
-<details>
-<summary>📄 <b>snake.yml workflow code (click to expand)</b></summary>
-<br/>
-
-Save this as `.github/workflows/snake.yml` in your profile repo:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: aliamirchoudhary
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 </div>
 
