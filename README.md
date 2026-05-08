@@ -87,9 +87,10 @@ class MuhammadAliAamir:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aliamirchoudhary&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&border_color=0077ff&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117"/>
+<!-- Stats via github-stats.vercel.app — no rate limiting -->
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aliamirchoudhary&theme=tokyonight"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aliamirchoudhary&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&border_color=0077ff&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aliamirchoudhary&theme=tokyonight"/>
 
 <br/><br/>
 
