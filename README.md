@@ -1,9 +1,9 @@
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:001a3d,60:0077ff,100:00d4ff&height=250&section=header&text=Muhammad%20Ali%20Aamir&fontSize=52&fontColor=ffffff&fontAlignY=42&stroke=00d4ff&strokeWidth=2&desc=Data%20Scientist%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Founder%20%40%20WebCraft&descAlignY=62&descSize=17&animation=twinkling" width="100%"/>
+<!-- HEADER — replaced venom with waving gradient for cleaner look -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:001533,50:003580,75:0066cc,100:00d4ff&height=260&section=header&text=Muhammad%20Ali%20Aamir&fontSize=50&fontColor=ffffff&fontAlignY=40&stroke=00aaff&strokeWidth=1.5&desc=Data%20Scientist%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Founder%20%40%20Kryzect&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=750&lines=🧠+BS+Data+Science+%40+FAST-NUCES+Lahore;🤖+Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;📊+Transforming+Raw+Data+into+Real+Intelligence;🚀+Founder+%26+Lead+Developer+%40+WebCraft;⚡+Building+Production-Ready+AI+Systems;🏏+Cricket+Analytics+%7C+👗+Fashion+AI+%7C+🕹️+Assembly+Games)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=800&lines=🧠+BS+Data+Science+%40+FAST-NUCES+Lahore;🤖+Machine+Learning+%7C+Deep+Learning+%7C+LLMs;🔮+Generative+AI+%7C+Agentic+AI+%7C+RAG+Pipelines;📊+Transforming+Raw+Data+into+Real+Intelligence;🚀+Founder+%26+Lead+Engineer+%40+Kryzect;⚡+Building+Production-Ready+AI+Systems)](https://git.io/typing-svg)
 
 <br/>
 
@@ -23,8 +23,12 @@
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
 </a>
 &nbsp;
-<a href="https://webcraft-dev.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🛠%20WebCraft-Agency-00d4ff?style=for-the-badge&labelColor=0d1117&color=00d4ff" />
+<a href="https://github.com/Kryzect" target="_blank">
+  <img src="https://img.shields.io/badge/Kryzect-Org-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="https://kryzect.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🛠%20Kryzect-Think%20First.%20Build%20Better.-00d4ff?style=for-the-badge&labelColor=0d1117&color=00d4ff" />
 </a>
 &nbsp;
 <a href="mailto:aliamirchoudhary@gmail.com">
@@ -56,26 +60,26 @@ class MuhammadAliAamir:
         self.name        = "Muhammad Ali Aamir"
         self.role        = ["Data Scientist 🧠",
                             "AI/ML Engineer 🤖",
+                            "Generative AI Engineer 🔮",
                             "Full-Stack Developer ⚡"]
         self.university  = "FAST-NUCES Lahore"
         self.degree      = "BS Data Science (2024 → 2028)"
         self.location    = "Lahore, Pakistan 🇵🇰"
-        self.company     = "Founder @ WebCraft 🛠️"
+        self.company     = "Founder & Lead Engineer @ Kryzect 🛠️"
 
-        self.ai_focus    = ["Machine Learning",
-                            "Deep Learning",
-                            "Computer Vision",
-                            "Predictive Analytics",
-                            "Neural Networks"]
+        self.ai_focus    = ["Machine Learning", "Deep Learning",
+                            "Generative AI", "Agentic AI",
+                            "RAG Pipelines", "LLMs & Fine-Tuning",
+                            "Computer Vision", "NLP"]
 
-        self.currently   = "Building AI systems that ship to production"
-        self.fun_fact    = "Wrote physics gravity in Assembly. No FPU. 😤"
+        self.currently   = "Building intelligent systems that think, then ship"
+        self.fun_fact    = "My first serverless worker handles 10k req/day. No server touched. 😎"
 
     def mission(self) -> str:
-        return "Democratize AI analytics through scalable systems."
+        return "Build AI systems that reason, adapt, and deliver — Think First. Build Better."
 
     def open_to(self) -> list:
-        return ["Internships", "ML Research",
+        return ["AI Research", "Internships",
                 "Freelance Projects", "Collaborations"]
 ```
 
@@ -83,11 +87,37 @@ class MuhammadAliAamir:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 💼 &nbsp;Experience
+
+```
+  ╔══════════════════════════════════════════════════════════════════════════════╗
+  ║  🛠️  Founder & Lead Engineer — Kryzect                [Aug 2026 – Present]  ║
+  ║      Think First. Build Better.  |  kryzect.vercel.app                      ║
+  ║      ├─ Full-stack web & mobile (iOS/Android) solutions                      ║
+  ║      ├─ AI product engineering: Generative AI, Agentic AI, SaaS             ║
+  ║      ├─ MERN / Flask / Next.js → production on Vercel, AWS, Cloudflare      ║
+  ║      └─ End-to-end client delivery: scoping → shipping → scaling             ║
+  ╠══════════════════════════════════════════════════════════════════════════════╣
+  ║  🤖  AI Engineering Intern — Vertekx               [Jun 2026 – Aug 2026]   ║
+  ║      ├─ LLMs & Generative AI — prompt engineering, model evaluation         ║
+  ║      ├─ RAG pipelines: retrieval, chunking, embedding, re-ranking            ║
+  ║      ├─ Model fine-tuning on domain-specific datasets                        ║
+  ║      ├─ FastAPI services for AI inference & workflow orchestration           ║
+  ║      └─ Agentic AI workflows & multi-step reasoning pipelines               ║
+  ╠══════════════════════════════════════════════════════════════════════════════╣
+  ║  ☁️  Software Engineering Intern                    [May 2026 – Present]    ║
+  ║      ├─ Cloudflare stack: Workers, Durable Objects, D1, Pages, AI Gateway   ║
+  ║      ├─ Generative AI & Agentic AI integration in serverless architecture   ║
+  ║      └─ RAG-powered features with deterministic validation gates             ║
+  ╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> &nbsp;GitHub Analytics
 
 <div align="center">
 
-<!-- Stats via github-stats.vercel.app — no rate limiting -->
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aliamirchoudhary&theme=tokyonight"/>
 &nbsp;
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aliamirchoudhary&theme=tokyonight"/>
@@ -108,7 +138,9 @@ class MuhammadAliAamir:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aliamirchoudhary&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=aliamirchoudhary&theme=tokyonight&column=4&row=2&margin-w=12&margin-h=12&no-bg=true&no-frame=false" />
+</a>
 
 </div>
 
@@ -120,13 +152,18 @@ class MuhammadAliAamir:
 
 <div align="center">
 
-### 🧬 ML / DL Frameworks
+### 🧬 ML / DL / Generative AI Stack
 
-<!-- Replaced skillicons for ML row — Keras icon has CDN issues on skillicons.dev -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/DistilBERT-ff6b35?style=for-the-badge&logo=huggingface&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG_Pipelines-7c3aed?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agentic_AI-00d4ff?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Fine--Tuning-059669?style=for-the-badge&logoColor=white"/>
 
 ### 📊 Data Science Ecosystem
 
@@ -136,6 +173,7 @@ class MuhammadAliAamir:
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
 </div>
 
@@ -145,12 +183,14 @@ class MuhammadAliAamir:
 |-------|:-----:|----------|
 | 🤖 **Machine Learning** | `90%` | ![90%](https://progress-bar.xyz/90/?scale=100&title=&width=200&color=0077ff&suffix=%) |
 | 🧠 **Deep Learning / NNs** | `88%` | ![88%](https://progress-bar.xyz/88/?scale=100&title=&width=200&color=0077ff&suffix=%) |
+| 🔮 **Generative AI / LLMs** | `84%` | ![84%](https://progress-bar.xyz/84/?scale=100&title=&width=200&color=7c3aed&suffix=%) |
+| 🤝 **Agentic AI / Workflows** | `80%` | ![80%](https://progress-bar.xyz/80/?scale=100&title=&width=200&color=7c3aed&suffix=%) |
+| 📚 **RAG Pipelines** | `82%` | ![82%](https://progress-bar.xyz/82/?scale=100&title=&width=200&color=00d4ff&suffix=%) |
 | 🔬 **Feature Engineering** | `90%` | ![90%](https://progress-bar.xyz/90/?scale=100&title=&width=200&color=00b4d8&suffix=%) |
-| 📊 **Data Visualization** | `88%` | ![88%](https://progress-bar.xyz/88/?scale=100&title=&width=200&color=00b4d8&suffix=%) |
-| 👁️ **Computer Vision** | `80%` | ![80%](https://progress-bar.xyz/80/?scale=100&title=&width=200&color=7c3aed&suffix=%) |
-| 🚀 **Model Deployment** | `78%` | ![78%](https://progress-bar.xyz/78/?scale=100&title=&width=200&color=7c3aed&suffix=%) |
+| 👁️ **Computer Vision** | `80%` | ![80%](https://progress-bar.xyz/80/?scale=100&title=&width=200&color=059669&suffix=%) |
 | 📝 **Predictive Analytics** | `92%` | ![92%](https://progress-bar.xyz/92/?scale=100&title=&width=200&color=059669&suffix=%) |
-| 🗣️ **NLP** | `60%` | ![60%](https://progress-bar.xyz/60/?scale=100&title=&width=200&color=dc2626&suffix=%) |
+| 🔧 **Fine-Tuning** | `78%` | ![78%](https://progress-bar.xyz/78/?scale=100&title=&width=200&color=ff6b35&suffix=%) |
+| 🗣️ **NLP** | `75%` | ![75%](https://progress-bar.xyz/75/?scale=100&title=&width=200&color=dc2626&suffix=%) |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -159,22 +199,34 @@ class MuhammadAliAamir:
 <div align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css&theme=dark&perline=10"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,html,css&theme=dark&perline=10"/>
 &nbsp;
 <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/Assembly_x86-6E4C13?style=for-the-badge&logoColor=white"/>
 
-### 🌐 Web & Backend
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,tailwind&theme=dark&perline=10"/>
+### 🌐 Web, Mobile & Backend
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,tailwind,vite&theme=dark&perline=10"/>
+&nbsp;
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/iOS%2FAndroid-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 
-### 🗄️ Databases & Cloud
-<img src="https://skillicons.dev/icons?i=azure,aws,gcp,vercel&theme=dark&perline=10"/>
+### ☁️ Cloud, Serverless & Edge
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp,vercel,cloudflare&theme=dark&perline=10"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+<img src="https://img.shields.io/badge/Durable_Objects-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudflare_D1-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Gateway-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+
+### 🗄️ Databases & AI Infra
+<img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark&perline=10"/>
 &nbsp;
 <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git_LFS-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 ### 🔧 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark&perline=10"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker&theme=dark&perline=10"/>
 &nbsp;
 <img src="https://img.shields.io/badge/NASM-333333?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/DOSBox-555555?style=for-the-badge&logoColor=white"/>
@@ -217,6 +269,31 @@ class MuhammadAliAamir:
 </td>
 <td width="50%" valign="top">
 
+### 🚨 IncidentIQ
+**AI-Powered Incident Postmortem Automation**
+
+[![Live](https://img.shields.io/badge/🌐_LIVE-00d4ff?style=flat-square)](https://incidentiq.pages.dev/)
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/aliamirchoudhary/IncidentIQ)
+
+> *RAG-grounded root-cause analysis on Cloudflare's serverless edge*
+
+```
+✦ Multi-worker serverless platform (Cloudflare)
+✦ RAG-grounded root-cause analysis engine
+✦ Human-in-the-loop mandatory review gate
+✦ Deterministic validation before any output
+✦ Durable Objects · D1 · AI Gateway · Agents SDK
+```
+
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-7c3aed?style=flat-square)
+![Agentic](https://img.shields.io/badge/-Agentic_AI-00d4ff?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 👗 Fashion Image Classifier
 **CNN + Random Forest Dual Architecture**
 
@@ -236,12 +313,36 @@ class MuhammadAliAamir:
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 </td>
+<td width="50%" valign="top">
+
+### 📄 Financial Document Classifier
+**Fine-Tuned DistilBERT · 17 Audit Classes**
+
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/aliamirchoudhary/Financial-Document-Classifier)
+
+> *CPU-friendly, text-only classifier — no external LLM API calls*
+
+```
+✦ Fine-tuned DistilBERT on financial audit data
+✦ Supports PDF (native/scanned), DOCX, CSV, XLS/XLSX
+✦ Image extraction + OCR pipeline
+✦ FastAPI inference service; checkpoint via Git LFS
+✦ Secure, offline — zero external API dependency
+```
+
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![DistilBERT](https://img.shields.io/badge/-DistilBERT-ff6b35?style=flat-square)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
 ### ✈️ TravelBuddy
 **AI-Powered Social Travel Platform**
+
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/aliamirchoudhary/TravelBuddy)
 
 > *ML trip planning meets genuine social connections*
 
@@ -255,44 +356,6 @@ class MuhammadAliAamir:
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![AI](https://img.shields.io/badge/-AI%2FML-0077ff?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### ☀️ Solar Panel Predictor
-**C++ Smart Energy System Estimator**
-
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/aliamirchoudhary/Solar-Panel-System-Predictor)
-
-> *Optimal panel config from house area & energy inputs*
-
-```
-✦ Demand ↔ panel ↔ battery matching algorithms
-✦ Dynamic regional cost calculator
-✦ Full config recommendation in real-time
-```
-
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎬 Relive
-**OOP-Based Social Media Platform**
-
-> *Full-featured social platform built on solid OOP principles*
-
-```
-✦ Post, comment & nested reply system
-✦ Friend requests & social graph logic
-✦ Encapsulation, inheritance & polymorphism
-✦ Clean class hierarchy & modular design
-```
-
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![OOP](https://img.shields.io/badge/-OOP-7c3aed?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -320,31 +383,42 @@ class MuhammadAliAamir:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏢 &nbsp;WebCraft — My Digital Agency
+## 🏢 &nbsp;Kryzect — Think First. Build Better.
 
 <div align="center">
 
-<a href="https://webcraft-dev.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/🛠_WebCraft-Full_Stack_Web_Solutions_for_Real_Businesses-0077ff?style=for-the-badge&labelColor=0d1117&color=0077ff"/>
+<a href="https://kryzect.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🛠_Kryzect-Think%20First.%20Build%20Better.-0077ff?style=for-the-badge&labelColor=0d1117&color=0077ff"/>
 </a>
+&nbsp;
+<a href="https://github.com/Kryzect" target="_blank">
+<img src="https://img.shields.io/badge/GitHub%20Org-Kryzect-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+</a>
+
+<br/>
+<img src="https://raw.githubusercontent.com/Kryzect/Kryzect-Official-Website/main/public/logo.png" height="55" alt="Kryzect Logo"/>
 
 </div>
 
 <br/>
 
-> *I didn't just learn to code — I built a business around it.*
+> *From idea to production — we think first, then build better.*
 
 ```
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║  🔹 FLASK / MERN / MSSQL systems: requirements → production      ║
-  ║  🔹 Figma-to-React pixel-perfect UI · 95+ Lighthouse scores      ║
-  ║  🔹 Deployed on AWS · Hugging Face · Render · Vercel             ║
-  ║  🔹 OAuth2-secured Gmail SMTP · Serverless Node.js functions     ║
-  ║  🔹 End-to-end client management via Fiverr & direct channels    ║
-  ╚══════════════════════════════════════════════════════════════════╝
+  ╔══════════════════════════════════════════════════════════════════════╗
+  ║  🔹 Full-stack web, iOS & Android development                        ║
+  ║  🔹 AI product engineering: Generative AI, Agentic AI, SaaS         ║
+  ║  🔹 RAG pipelines, LLM integrations, AI workflow automation          ║
+  ║  🔹 Cloudflare edge · AWS · Vercel · Render deployment               ║
+  ║  🔹 Figma-to-React pixel-perfect UI · 95+ Lighthouse scores          ║
+  ║  🔹 End-to-end client delivery: scoping → shipping → scaling         ║
+  ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-🌐 **Live:** [webcraft-dev.vercel.app](https://webcraft-dev.vercel.app/) &nbsp;|&nbsp; 📁 **Code:** [github.com/aliamirchoudhary/webcraft](https://github.com/aliamirchoudhary/webcraft)
+🌐 [kryzect.vercel.app](https://kryzect.vercel.app/) &nbsp;|&nbsp;
+📬 [Contact](https://kryzect.vercel.app/contact) &nbsp;|&nbsp;
+⚙️ [Services](https://kryzect.vercel.app/services) &nbsp;|&nbsp;
+🐙 [github.com/Kryzect](https://github.com/Kryzect)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -354,6 +428,7 @@ class MuhammadAliAamir:
   ┌─────────────────────────────────────────────────────────────┐
   │  🎓  BS Data Science — FAST-NUCES Lahore   [2024 → 2028]   │
   │      ├─ Machine Learning & Deep Learning                    │
+  │      ├─ Generative AI & Agentic Systems                     │
   │      ├─ Data Structures & Algorithms                        │
   │      ├─ Database Systems & SQL                              │
   │      ├─ Computer Organization & Assembly Language           │
@@ -393,8 +468,12 @@ class MuhammadAliAamir:
   <img src="https://img.shields.io/badge/🌐_Portfolio-ali--aamir--portfolio.vercel.app-0077ff?style=for-the-badge&labelColor=0d1117"/>
 </a>
 <br/><br/>
-<a href="https://webcraft-dev.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🛠_WebCraft-webcraft--dev.vercel.app-00d4ff?style=for-the-badge&labelColor=0d1117"/>
+<a href="https://kryzect.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🛠_Kryzect-kryzect.vercel.app-00d4ff?style=for-the-badge&labelColor=0d1117"/>
+</a>
+<br/><br/>
+<a href="https://github.com/Kryzect" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub_Org-Kryzect-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 </a>
 <br/><br/>
 <a href="https://www.linkedin.com/in/muhammad-ali-aamir2558/" target="_blank">
@@ -411,12 +490,12 @@ class MuhammadAliAamir:
 
 <br/><br/>
 
-> 💡 *Open to: ML internships · AI research collabs · Freelance dev · Full-time roles (2028)*
+> 💡 *Open to: AI research · Generative AI collabs · Internships · Freelance · Full-time (2028)*
 
 </div>
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,40:0077ff,100:0d1117&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,40:0077ff,100:0d1117&height=130&section=footer&text=Think%20First.%20Build%20Better.&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 <div align="center">
   <sub>⭐ If my work helped you, drop a star — it means the world! &nbsp;|&nbsp; Built with 💙 from Lahore, Pakistan 🇵🇰</sub>
